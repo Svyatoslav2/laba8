@@ -13,7 +13,7 @@
 
 ### Полутоновое:
 
-![](results/semitone/kirp.png)
+![](halftone/1.jpg)
 
 ### Матрица Харалика
 
@@ -46,7 +46,7 @@ LUN (contrasted): 2160.9824011652677
 
 ### Полутоновое:
 
-![](results/semitone/oboi.png)
+![](halftone/2.jpg)
 
 ### Матрица Харалика
 
@@ -77,7 +77,7 @@ LUN (contrasted): 408.7027770180322
 
 ### Полутоновое:
 
-![](results/semitone/sun.png)
+![](halftone/4.jpg)
 
 ### Матрица Харалика
 
