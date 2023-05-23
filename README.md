@@ -31,10 +31,10 @@ DI: 1.6223742849824216*10^21
 ![](res/histograms/kirp.png)
 
 ### Констрастированное изображение
-![](res/contrasted/1.jpg)
+![](contrasted/1.jpg)
 
 ### Матрица Харалика для контрастированного изображения
-![](res/harariccontrasted/1.jpg)
+![](harariccontrasted/1.jpg)
 
 ### Контрастированные признаки
 CON (contrasted): 113983514.39752823
@@ -65,11 +65,11 @@ DI: 3.855510675842918*10^19
 ### Гистограммы
 ![](results/histograms/oboi.png)
 
-### Констрастированное изображение (L = 7)
-![](results/contrasted/oboi.png)
+### Констрастированное изображение
+![](contrasted/2.jpg)
 
 ### Матрица Харалика для контрастированного изображения
-![](results/haralik_contrasted/oboi.png)
+![](harariccontrasted/2.jpg)
 
 ### Контрастированные признаки
 CON (contrasted): 8137120.671267983
@@ -98,11 +98,11 @@ DI: 4.919548287616717*10^16
 ### Гистограммы
 ![](results/histograms/sun.png)
 
-### Констрастированное изображение (L = 7)
-![](results/contrasted/sun.png)
+### Констрастированное изображение
+![](contrasted/4.jpg)
 
 ### Матрица Харалика для контрастированного изображения
-![](results/haralik_contrasted/sun.png)
+![](harariccontrasted/4.jpg)
 
 ### Контрастированные признаки
 CON (contrasted): 118477364.31172077
