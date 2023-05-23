@@ -28,13 +28,13 @@ DI: 1.6223742849824216*10^21
 
 
 ### Гистограммы
-![](results/histograms/kirp.png)
+![](res/histograms/kirp.png)
 
 ### Констрастированное изображение
-![](results/contrasted/kirp.png)
+![](res/contrasted/1.png)
 
 ### Матрица Харалика для контрастированного изображения
-![](results/haralik_contrasted/kirp.png)
+![](res/harariccontrasted/1.png)
 
 ### Контрастированные признаки
 CON (contrasted): 113983514.39752823
