@@ -17,7 +17,7 @@
 
 ### Матрица Харалика
 
-![](results/haralik/kirp.png)
+![](hararic/1.jpg)
 
 ### Признаки
 CON: 105576465.92242281
@@ -50,7 +50,7 @@ LUN (contrasted): 2160.9824011652677
 
 ### Матрица Харалика
 
-![](results/haralik/oboi.png)
+![](hararic/2.jpg)
 
 ### Признаки
 CON: 3981144.1149413614
@@ -81,7 +81,7 @@ LUN (contrasted): 408.7027770180322
 
 ### Матрица Харалика
 
-![](results/haralik/sun.png)
+![](hararic/4.jpg)
 
 ### Признаки
 CON: 97768871.89628883
